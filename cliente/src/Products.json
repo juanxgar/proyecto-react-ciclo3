@@ -1,0 +1,280 @@
+{
+    "productos": [
+        {
+            "titulo":"Torre Gamer Ryzen 7",
+            "categoria":"Computadoras de Mesa",
+            "precio":"$3.110.000",
+            "resumen":[
+                {
+                    "1":"Procesador AMD Ryzen 7",
+                    "2":"Sin SO",
+                    "3":"Unidad de estado solido Ssd 240 GB",
+                    "4":"Graficas Integradas Radeon",
+                    "5":"Garantia de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {
+                    "procesador":"Procesador AMD RYZEN 7 3,6 Ghz",
+                    "memoria ram":"Memoria RAM DDR4 8GB RGB VIPER",
+                    "almacenamiento":"Almacenamiento SSD 240 GB",
+                    "graficas":"Gráfica integrada Radeon™",
+                    "board":"Board GIGABYTE A520 DS3H",
+                    "sistema operativo":"Sin SO",
+                    "ventiladores":"Ventiladores ARGB",
+                    "caja":"Caja Power Group Clon Gamer 6",
+                    "fuente":"Fuente de 250W"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Pc Torre Gamer Ryzen 3 Monitor 22''",
+            "categoria":"Computadoras de mesa",
+            "precio":"$2.330.000",
+            "resumen":[
+                {
+                    "1":"Procesador AMD Ryzen 3",
+                    "2":"Windows 10 Home 64",
+                    "3":"Unidad de estado solido Ssd 256 GB",
+                    "4":"Monitor Janus 22''",
+                    "5":"Graficas Integradas Radeon",
+                    "6":"Garantia de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {
+                    "pantalla":"MONITOR JANUS IPS 22″ J2275FHD IPS HDMI, VGA, FULL HD CON PARLANTES INCORPORADOS",
+                    "procesador":"Procesador AMD RYZEN 3-3200G 3,6 Ghz/L3 4MB/12NM/4 NUCLEOS/4 SUBPROCESOS",
+                    "memoria ram":"Memoria RAM: DDR4 8GB RGB VIPER",
+                    "almacenamiento":"Almacenamiento: SSD 256 GB",
+                    "graficas":"Graficas: integrada Radeon™ Vega 8 Graphics",
+                    "board":"Board:  MSI A320M-A PRO CON 2 SLOTS DE MEMORIA",
+                    "sistema operativo":"Sistema Operativo: Windows 10 Home 64",
+                    "ventiladores":"Ventiladores: ARGB",
+                    "caja":"Caja: Janus AX-6",
+                    "fuente":"Fuente: 250W",
+                    "perifericos":"Teclado y Mouse retroiluminados incluidos"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Pc Torre Gamer Amd Ryzen 5 Monitor 22",
+            "categoria":"Computadoras de mesa",
+            "precio":"$3.430.000",
+            "resumen":[
+                {
+                    "1":"Procesador AMD Ryzen 5",
+                    "2":"Windows 10 Home 64",
+                    "3":"Unidad de estado solido de 240 GB",
+                    "4":"Monitor Janus de 22''",
+                    "5":"Graficas Nvidia® GeForce",
+                    "6":"Garantía de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {   
+                    "pantalla":"MONITOR JANUS IPS 22″ J2275 FHD IPS HDMI, VGA, FULL HD CON PARLANTES INCORPORADOS",
+                    "procesador":"Procesador: PC AMD RYZEN 5-2600 RELOJ BASE 3,4 Ghz RELOJ DE AUMENTO MAX 3,9 GHZ /L3 16MB/12nm FinFET/6 NUCLEOS/12 HILOS/Desbloqueado",
+                    "memoria ram":"Memoria RAM: DDR4 8GB RGB VIPER",
+                    "almacenamiento":"Almacenamiento: SSD 240 GB",
+                    "graficas":"Graficas: Nvidia GeForce GT 710 2GB",
+                    "board":"Board: BOARD ASROCK B450M PRO CON 4 SLOTS DE MEMORIA, soporta hasta 64 GB",
+                    "sistema operativo":"Sistema Operativo: Windows 10 Home 64",
+                    "ventiladores":"Ventiladores: ARGB",
+                    "caja":"Caja: Janus AX-6",
+                    "fuente":"Fuente: 250W",
+                    "perifericos":"Teclado y Mouse retroiluminados"
+                }
+            ]
+        },
+
+        {
+            "titulo":"JBL QUANTUM 100",
+            "categoria":"Audio",
+            "precio":"$139.920",
+            "resumen":"Convierta el juego en una aventura épica. Con el nuevo estándar JBL QuantumSOUND Signature, los auriculares JBL Quantum 100 le sitúan en el centro de la acción. Un sonido inmersivo y preciso que le permite apreciar todos los matices y sentir todas las explosiones, un micrófono vocal extraíble, y comodidad y ligereza gracias a las almohadillas de espuma viscoelástica. El micrófono de asta desmontable le permite interactuar con varios jugadores y las almohadillas de espuma viscoelástica proporcionan un óptimo confort durante horas. Juegue partidas inolvidables con los auriculares JBL Quantum 100.",
+            "ficha tecnica":[
+                {
+                    "longitud cable":"Longitud del cable del auricular (m): 1.2",
+                    "driver":"Driver (mm): 40",
+                    "sensibilidad driver":"Sensibilidad del driver a 1kHz1mW (dB): 96",
+                    "frecuencia dinamica":"Respuesta de frecuencia dinámica: 20 Hz - 20 kHz",
+                    "impedancia":"Impedancia de entrada (ohms): 32",
+                    "peso":"Peso (g): 220",
+                    "microfono":"Microfono integrado"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Asistente de Voz GOOGLE Home Mini Gris",
+            "categoria":"Internet de las cosas",
+            "precio":"$169.900",
+            "resumen":"Una gran ayuda en cualquier lugar de tu casa, conoce GOOGLE Home Mini.| Google Home Mini es una parlante inteligente con el Asistente de Google integrado que siempre está listo para ayudarte en lo que necesites. Si quieres ver información actualizada sobre el tiempo, el tráfico, deportes, finanzas y mucho más, solo tienes que decirlo y el Home Mini te dará las respuestas. Diseñado para pasar desapercibido, pero para destacar. ¡Adquiere el tuyo ahora!",
+            "caracteristicas":[
+                {
+                    "1":"Transmite contenido fácilmente desde un dispositivo a la TV. Simplemente accede a cualquier app compatible y presiona el botón para transmitir.",
+                    "2":"Obtén ayuda personalizada para organizar tu día",
+                    "3":"Conectividad Bluetooth, transmite música desde tu teléfono",
+                    "4":"Compatible con Chromecast para controlar tu TV"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Pin Antivirus KASPERSKY Total Security 3 dispositivos - 1 año",
+            "categoria":"Licencias",
+            "precio":"$239.900",
+            "resumen":"Todas tus necesidades de seguridad en un solo producto. Obtén la inigualable sensación de seguridad con una protección galardonada contra hackers, virus y malware. Incluye herramientas de privacidad y protección de pagos que te protegen desde todos los ángulos en cada dispositivo.",
+            "caracteristicas":[
+                {
+                    "1":"VPN gratuita con hasta 300 MB de tráfico diario",
+                    "2":"Navegador de pago seguro para cifrar tus pagos y transacciones en Internet",
+                    "3":"Gratis Kaspersky Password Manager Premium",
+                    "4":"Gratis Kaspersky Safe Kids Premium",
+                    "5":"Cifra el historial de navegación y los datos en línea"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Antivirus McAfee Total Protection 10 Multidispositivos",
+            "categoria":"Licencias",
+            "precio":"$79.900",
+            "resumen":"McAfee® Total Protection es un producto de seguridad de confianza para disfrutar de una protección antivirus, de identidad y de privacidad en sus PC, Mac, Smartphones y Tablets.",
+            "caracteristicas":[
+                {
+                    "1":"Advierte sitios web de riesgo y evita descargas peligrosas",
+                    "2":"Proteja a sus hijos del contenido digital inapropiado.",
+                    "3":"Administrador de contraseñas",
+                    "4":"Guarde bajo llave los archivos confidenciales",
+                    "5":"Antivirus de reconocido prestigio"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Pin Microsoft Office 365 Familia Para 6 Usuarios / 12 Meses",
+            "categoria":"Licencias",
+            "precio":"$244.900",
+            "resumen":"Trabaja como quieras desde prácticamente cualquier lugar. Con Office 365 Familia, tienes Word, Excel, PowerPoint, Outlook y mucho más. Empieza un documento en tu escritorio en la oficina, revísalo en tu tableta en el café y luego agrega los toques finales en tu computadora portátil en casa. Las aplicaciones siempre están actualizadas, por lo que nunca son obsoletas. Soporte técnico de expertos de Microsoft especializados por chat o teléfono sin costo adicional durante el periodo de tu suscripción. Recuerda que el Office 365 personal y hogar ahora incluyen las nuevas aplicaciones de Office 2016 para PC y Mac.",
+            "caracteristicas":[
+                {
+                    "1":"RECUERDA: El pin se entregara en un correo diferente al de la factura dentro de las próximas 2 Horas después de facturado el producto.",
+                    "2":"Guarda y comparte archivos y fotos en todos los dispositivos con OneDrive",
+                    "3":"Disfruta de protección de seguridad avanzada en OneDrive y Outlook",
+                    "4":"Versiones de Word, Excel, PowerPoint, OneNote y Outlook.",
+                    "5":"1 TB de almacenamiento en la nube por persona"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Licencia Windows 10 Home Original",
+            "categoria":"Licencias",
+            "precio":"$769.999",
+            "resumen":"Windows 10 original, ventajas reales. Obtén la mejor experiencia de PC posible, solo con una versión original de Windows 10. Con Windows 10 como base de su PC, puede hacer todo lo que imagine.",
+            "caracteristicas":[
+                {
+                    "1":"Sus características de seguridad integradas incluyen un antivirus, un firewall y protección para Internet.",
+                    "2":"Escanee su cara o su huella dactilar con Windows Hello para acceder de forma rápida, segura y sin contraseña a su PC",
+                    "3":"El Asistente de concentración permite bloquear notificaciones, sonidos y alertas para poder trabajar sin distracciones.",
+                    "4":"La escala de tiempo proporciona una forma rápida y sencilla de ver los documentos, las aplicaciones o los sitios web que ha abierto recientemente.",
+                    "5":"Fotos de Microsoft es una forma fácil de organizar, buscar, editar y compartir fotos y vídeos.",
+                    "6":"El menú Game Bar permite hacer streaming en vivo de un juego de forma instantánea, realizar grabaciones de la pantalla y controlar opciones concretas de la configuración del audio."
+                }
+            ],
+            "requsitos":[
+                {
+                    "procesador":"Procesador compatible de 1 GHz o más rápido",
+                    "memoria ram":"1 GB de RAM para 32-bit; 2 GB para 64 bits",
+                    "almacenaminento":"Hasta 20 GB de espacio en disco disponible",
+                    "graficas":"Resolución de pantalla de 800 x 600 o más. Procesador de gráficos DirectX 9 con controlador WDDM"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Acer Nitro 5 AN515-55",
+            "categoria":"Computadoras portátiles",
+            "precio":"$3.500.000",
+            "resumen":[
+                {
+                    "1":"Procesador Intel Core i5",
+                    "2":"Windows 10 Home 64",
+                    "3":"Unidad de estado solido PCIe de 512 GB",
+                    "4":"Pantalla de 15.6''",
+                    "5":"Graficas Nvidia GeForce",
+                    "6":"Garantia de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {   
+                    "pantalla":"Pantalla LCD IPS ComfyView Full HD 1920x1080 de 15.6",
+                    "procesador":"Procesador: Intel Core i5 10300H DE 2.50 GHz Quad Core",
+                    "memoria ram":"Memoria RAM: 8 GB DDR4 con hasta dos ranuras",
+                    "almacenamiento":"Almacenamiento: 512 GB SSD PCIe",
+                    "graficas":"Graficas: NVIDIA GeForce GTX 1650 CON HASTA 4GB de memoria dedicada",
+                    "sistema operativo":"Sistema Operativo: Windows 10 Home 64",
+                    "puertos":"Puertos: HDMI, 2 USB 3.2 Gen 1 Tipo-A, 1 USB 3.2 Gen 2 Tipo-A, 1 USB 3.2 Gen 2 Tipo-C, puerto RJ45"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Portátil Asus X513ea Core I5 15.6''",
+            "categoria":"Computadoras portátiles",
+            "precio":"$2.480.000",
+            "resumen":[
+                {
+                    "1":"Procesador Intel Core i5",
+                    "2":"Sistema Operativo Endless",
+                    "3":"Unidad de estado solido PCIe de 256 GB",
+                    "4":"Pantalla de 15.6''",
+                    "5":"Graficas Integradas Intel",
+                    "6":"Garantia de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {
+                    "pantalla":"Pantalla: LCD IPS Full HD 1920x1080 de 15.6''",
+                    "procesador":"Procesador: Intel Core i5 1135G7 DE 2.40 GHz Quad Core/ 8 Hilos con frecuencia turbo de hasta 4.2GHz",
+                    "memoria ram":"Memoria RAM: 8 GB DDR4 con hasta dos ranuras",
+                    "almacenamiento":"Almacenamiento: 256 GB SSD PCIe",
+                    "graficas":"Graficas: Graficos Integrados Intel Iris",
+                    "sistema operativo":"Sistema Operativo: Endless",
+                    "puertos":"Puertos: HDMI, 1 USB 3.2 Gen 1 Tipo-A, 1 USB 3.2 Gen 2 Tipo-C, 2 USB 2.0 Tipo-A, Lector de Huellas"
+                }
+            ]
+        },
+
+        {
+            "titulo":"Computador Portatil HP Pavilion Gaming 15-ec1025la",
+            "categoria":"Computadoras portátiles",
+            "precio":"$2.899.000",
+            "resumen":[
+                {
+                    "1":"Procesador AMD Ryzen 5",
+                    "2":"Windows 10 Home 64",
+                    "3":"Unidad de estado solido PCIe® NVMe™ M.2 de 256 GB",
+                    "4":"Pantalla de 15.6''",
+                    "5":"Graficas Nvidia® GeForce",
+                    "6":"Garantía de un año"
+                }
+            ],
+            "ficha tecnica":[
+                {
+                    "pantalla":"Pantalla: 15,6'' de diagonal FHD antirreflejo, con microbordes, retroiluminación WLED 220 nits, 45 % de NTSC (1920 x 1080)",
+                    "procesador":"Procesador: AMD Ryzen™5 4600H Six Cores 54W (3.0GHz, turbo up to 4.0GHz), 3200MHz/3MB L2",
+                    "memoria ram":"Memoria RAM: 8GB DDR4 - 3200 (Expandible a 16 GB)",
+                    "almacenamiento":"Almacenamiento: 256GB SSD PCIe",
+                    "graficas":"Gráficas: NVIDIA® GeForce® GTX 1050 3GB",
+                    "sistema operativo":"Sistema Operativo: Windows 10",
+                    "puertos":"-Puertos: 1 USB Type-C® con SuperSpeed de 5 Gbps Velocidad de señalización; 1 USB Type-A con SuperSpeed de 5 Gbps Velocidad de señalización; 1 USB 2.0 Type-A (HP Sleep and Charge); 1 HDMI 2.0; 1 RJ-45; 1 conector inteligente CA; 1 combinación de auriculares y micrófono"
+                }
+            ]
+        }
+    ]
+}

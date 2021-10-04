@@ -1,0 +1,466 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fff;
+}
+
+nav {
+  background: #256eef;
+  padding: 5px 20px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul a {
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+nav ul img {
+  height: 3rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo a:hover {
+  text-decoration: none;
+}
+
+.menu li {
+  font-size: 16px;
+  padding: 15px 5px;
+  white-space: nowrap;
+}
+
+.logo a .toggle a {
+  font-size: 20px;
+}
+
+.button .secondary {
+  border-bottom: 1px #444 solid;
+}
+
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.toggle {
+  -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+          order: 1;
+}
+
+.item.button {
+  -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+          order: 2;
+}
+
+.item {
+  width: 100%;
+  text-align: center;
+  -webkit-box-ordinal-group: 4;
+      -ms-flex-order: 3;
+          order: 3;
+  display: none;
+}
+
+.item.active {
+  display: block;
+}
+
+footer {
+  width: 100%;
+  padding-top: -20px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  background: #46237a;
+}
+
+footer .content {
+  max-width: 1350px;
+  margin: auto;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer .content p,
+a {
+  color: #fff;
+}
+
+footer .content .box {
+  width: 49%;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+
+footer .content .topic {
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+footer .content p {
+  text-align: justify;
+  padding-right: 80px;
+}
+
+footer .content .lower .topic {
+  margin: 24px 0 5px 0;
+}
+
+footer .content .lower i {
+  padding-right: 16px;
+}
+
+footer .content .middle {
+  padding-left: 80px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+footer .content .middle a {
+  line-height: 32px;
+}
+
+footer .content .media-icons a {
+  font-size: 16px;
+  height: 45px;
+  width: 45px;
+  display: inline-block;
+  text-align: center;
+  line-height: 43px;
+  border-radius: 5px;
+  border: 2px solid #ffff;
+  margin: 30px 5px 0 0;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+footer .content .media-icons p {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  margin: 30px 5px 0 0;
+  padding-left: 80px;
+}
+
+.content .media-icons a:hover {
+  border-color: #ffc304;
+}
+
+footer a {
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+footer a:hover {
+  color: #ffc304;
+}
+
+@media all and (min-width: 600px) {
+  .menu {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .logo {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+  .toggle {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    text-align: right;
+  }
+  .item.button {
+    width: auto;
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+    display: block;
+  }
+  .toggle {
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+  .button.secondary {
+    border: 0;
+  }
+  .button a {
+    padding: 7.5px 15px;
+    background: #00297a;
+    border: 1px #00297a solid;
+  }
+  .button.secondary a {
+    background: transparent;
+  }
+  .button a:hover {
+    text-decoration: none;
+  }
+  .button:not(.secondary) a:hover {
+    background: #00297a;
+    border-color: #00297a;
+  }
+  .button.secondary a:hover {
+    color: #000;
+  }
+}
+
+.caja-botones {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+}
+
+.caja-botones div {
+  -ms-flex-item-align: auto;
+      -ms-grid-row-align: auto;
+      align-self: auto;
+}
+
+.cajita {
+  border: 2px solid #ffc304;
+  width: 150px;
+  height: 100px;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.cajita i {
+  font-size: 3rem;
+  color: #256eef;
+  padding: 0 0 10px 0;
+}
+
+.cajita p {
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  text-transform: uppercase;
+}
+
+.cajita:hover {
+  background-color: #ffc4047c;
+  color: #256eef;
+}
+
+main {
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.product-title {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  padding: 20px;
+}
+
+.button-add {
+  border-radius: 5px;
+  border-color: transparent;
+  text-align: center;
+  background-color: #ffc304;
+  color: black;
+  width: 200x;
+  height: 50px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.info-product {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  line-height: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.detail-info {
+  margin: 20px;
+  width: 500px;
+  padding: 50px;
+}
+
+.p-image {
+  padding: 20px;
+  width: 100%;
+}
+
+.p-image img {
+  width: 100%;
+}
+
+.producto-info-title {
+  font-size: 25px;
+}
+
+.tecnical-info-title {
+  font-size: 25px;
+}
+
+@media all and (min-width: 900px) {
+  .item {
+    display: block;
+    width: auto;
+  }
+  .toggle {
+    display: none;
+  }
+  .logo {
+    -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+            order: 0;
+  }
+  .item {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+  .button {
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+  .menu li {
+    padding: 15px 10px;
+  }
+  .menu li.button {
+    padding-right: 0;
+  }
+}
+
+@media all and (max-width: 900px) {
+  footer .content .box {
+    width: 50%;
+  }
+  footer .content p {
+    padding-right: 0;
+  }
+  footer .content .middle {
+    padding-left: 0;
+  }
+  footer .content .media-icons p {
+    padding-left: 0;
+  }
+  .content .right {
+    margin-top: 40px;
+  }
+}
+
+@media all and (max-width: 600px) {
+  footer {
+    position: relative;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  footer .content p {
+    padding-right: 0;
+  }
+  footer .content .box {
+    width: 100%;
+    margin-top: 30px;
+  }
+  footer .content .middle {
+    padding-left: 0;
+  }
+  footer .content .media-icons p {
+    padding-left: 0;
+  }
+  footer .content .middle {
+    padding-left: 0px;
+  }
+}
+/*# sourceMappingURL=styles.css.map */
+
+.nav-logo {
+  float: left !important;
+  margin-top: -15px !important;
+}
+
+/*.index__carousel {
+  display: flex;
+}*/
+
+.flex-container-novedades{
+  text-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
